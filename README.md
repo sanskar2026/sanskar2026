@@ -42,7 +42,7 @@ I thrive on solving <mark>real-world engineering challenges</mark>, embracing <m
 ### ⚡ GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanskar-rcrm&theme=radical" width="70%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanskar2026&theme=radical" width="70%" />
 </p>
 
 ---
